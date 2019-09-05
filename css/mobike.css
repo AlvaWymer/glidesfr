@@ -12,8 +12,8 @@ body{font-size: 16px;line-height: 2}
 
 
 /* 文字*/
-.heading-wrap{z-index:10;position: absolute;left:0;top:50%;margin-top:-73px;width:100%;height:146px;}
-.font-logo{font-size: 67px;line-height:1;color:#fff;font-family: Overpass, 'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft Yahei', 'WenQuanYi Micro Hei', Arial, Verdana, sans-serif;margin-bottom: 20px;}
+.heading-wrap{z-index:10;position: absolute;left:0;top:30%;margin-top:-73px;width:100%;height:146px;}
+.font-logo{font-size: 67px;line-height:1;color: #000000;font-family: Overpass, 'Helvetica Neue', Helvetica, 'PingFang SC', 'Microsoft Yahei', 'WenQuanYi Micro Hei', Arial, Verdana, sans-serif;margin-bottom: 20px;}
 .btn{display:inline-block;font-size: 22px;font-weight: bold;padding: 14px 26px;letter-spacing: .1em;border-radius: 6px;color:#fff;background: rgba(0,0,0,.6)}
 .btn:hover{background: black}
 /* 新闻 */
